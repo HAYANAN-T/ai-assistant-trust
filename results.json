@@ -1,0 +1,11 @@
+{
+  "loud_catch_rate": 1.0,
+  "quiet_catch_rate": 0.0,
+  "model_quiet_leak_rate": 0.17,
+  "model_benign_fp": 0.0,
+  "partitioned_leak_rate": 0.0,
+  "legit_pass_rate": 1.0,
+  "t_full_model_pass_ms": 139.02251200000038,
+  "t_dual_moderator_ms": 278.04502400000075,
+  "t_partitioning_ms": 146.86927924999793
+}
